@@ -1,0 +1,46 @@
+h1 {
+    background-color: teal;
+    color: aliceblue;
+    font-size: 30px;
+    padding: 10px;
+    margin: -7px;
+}
+
+.navbar{
+    padding: 0%;
+    border: 0ch;
+
+}
+
+body {
+    margin: 0;
+    background-image: url(../Bootstrap-Portfolio-master/images/wheat/wheat.png);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.container{
+    background-color: aliceblue;
+
+}
+
+h2{
+    color: teal;
+    font-size: 30px;
+    margin-top: 15px;
+
+}
+
+p{
+    color: #777777
+}
+
+.footer{
+    text-align: center;
+      background-color: #666666;
+      color: #ffff;
+      padding: 10px;
+      font-size: 10px;
+      height: 30px;
+      border-top: solid 6px teal;
+}
